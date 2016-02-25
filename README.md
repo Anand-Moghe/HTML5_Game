@@ -1,2 +1,2 @@
 # HTML5_Game
-Simple Image matching game using HTML5
+This is an example of simple game that can be developed using HTML5, CSS3 and JavaScript
